@@ -6,15 +6,22 @@ var app = express.createServer(express.logger());
 const filePath = "index.html";
 var content = "Processing..."
 
-var reader = fs.readFile(filePath, { flag: 'r', encoding: "utf-8" }, function (err, data) 
+// var reader = fs.readFile(filePath, { flag: 'r', encoding: "utf-8" }, function (err, data) 
+// 	{
+// 		if (err) throw err;
+// 		console.log("Read "+filePath+" complete");
+// 		content = data;
+// 	});
+
+app.get('/', function(request, response) {
+	fs.readFile(filePath, { flag: 'r', encoding: "utf-8" }, function (err, data) 
 	{
 		if (err) throw err;
 		console.log("Read "+filePath+" complete");
 		content = data;
+		response.send(content);
 	});
-
-app.get('/', function(request, response) {
-  response.send(content);
+	
 });
 
 var port = process.env.PORT || 5000;
