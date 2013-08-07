@@ -1,0 +1,61 @@
+Exhibition
+http://www.kickstarter.com/projects/730727524/visionnaire-fine-writing-instruments-0?ref=home_popular
+https://en.wikipedia.org/wiki/Art_exhibition
+http://www.brainyquote.com/quotes/topics/topic_art.html?vm=l
+http://www.wikihow.com/Set-Up-an-Art-Exhibition
+http://www.brandeis.edu/arts/office/creativeresources/exhibition.html
+http://creativitypro.com/how-to-hold-your-own-art-exhibition
+
+Video Story
+http://www.howto.gov/social-media/video/create-your-storyboard
+http://blogs.collab.net/agile/user-story-examples-and-counterexamples
+
+Jetmuse Content (Your Art Booster)
+
+(Who we are)
+My name is Nick Andrievsky and I studied computer science and software engineering in Mechnikov National University, Ukraine. I am software developer and fond of art. Jane Driga is a professional painer. She helps me to bring Jetmuse idea to life.
+
+(Story)
+The idea of Jetmuse cames when Jane and I were discussing why people do not buy art online. The key reason we found was loosing of charm of art in process of transformation from the matherial to digital form. Just imagine difference moving from 3D to 2D. Our conclution was: there's no technology way for now to express art in digital world, but we can make a bridge between piece of art and people for whо it was created.
+
+(We deside to create)
+We deside to create a service for artists and creativity professionals that tells а story of every running art exhibition, represent works much closer to originals and connected with social networks for comments and promotion.
+Let me explain.
+
+
+
+
+> With Amazon Simple Workflow there is no need to write your own complex glue-code or maintain your own state machines. Instead, you can focus on the business logic that makes your application unique.
+
+We are excited to announce the availability of the AWS Flow Framework for Ruby, an ease of use library that makes it faster and easier to build applications with Amazon Simple Workflow (Amazon SWF). Developers can use Amazon Simple Workflow to coordinate, audit, and scale work on one or more machines – in the AWS cloud or other data centers. With Amazon Simple Workflow there is no need to write your own complex glue-code or maintain your own state machines. Instead, you can focus on the business logic that makes your application unique.
+
+Using the AWS Flow Framework for Ruby, you write code in a programming model that is natural for Ruby programmers while the framework’s pre-built objects and classes handle the details of the Amazon Simple Workflow APIs. Using the framework, you can easily build applications that run tasks in sequence or in parallel on one or more machines. The framework and Amazon Simple Workflow track the state of your application’s processing steps and helps retry those steps that may have failed. This lets you spend more time writing code that delights customers and less time maintaining state machinery.
+
+The AWS Flow Framework for Ruby is open source. You can get the libraries from Rubygems. To get the source code, visit the GitHub project. Visit the SWF documentation page to see the Developer Guide and API Reference. You can also get code samples from the sample download page and view the getting started video on the AWS YouTube channel.
+
+To learn more about the service, visit the the Amazon SWF page.
+
+
+
+
+
+
+
+
+
+
+
+
+after of matheria  later, then working on Jane's 15th excebition. where We started  found that a key when compared excebitions and  To find a key problem is missising of right art representaion and missing of work story.  we fould was loosing of art charm if you put photo of art item in the same place with photos, small things that   to split at this time.   because art is not the same as pitures from the last noght party. I was surprised that there're no any professional service for painers to represent  . She already did 14 personal exhebitions and no one has online presentation. So 15th has to be the first.
+
+
+And we always force with the same routine - find works, poster, fluers, promotion. pr It was a scary feeling knowing I had just become a father. There I was, with a pen in hand about to sign my son's birth certificate. I felt like it was a moment that lasted forever. I knew as soon as I signed that piece of paper, it was official. I looked at the birth certificate and looked at the pen in my hand. "Johnny's Bait and Tackle" was written on the edge of the cheaply made pen. How did this pen end up at a Kaiser hospital? It was an odd feeling signing a document of such significant sentimental value with a pen that advertised bait and tackle gear.
+
+I decided to create
+From then on, I decided to create the ultimate pen. Just like a pocket knife or wedding ring, a pen should have the same sense of value. It should be something that can be handed down generations. Writing with Visionnaire is an experience, and when the cap clicks shut, it should capture that experience much like a journal or diary. Every time you pick up the pen, there is a distinct connection between you and the object itself. Not only does a pen have to have functionality, it needs to have soul.
+
+I wanted to create
+I wanted to create a timeless piece that could be passed onto my son, a meaningful piece of art that he can use and cherish. Perhaps my son would have it in his hands when it comes time signing his son's birth certificate.
+
+
+Выставка
