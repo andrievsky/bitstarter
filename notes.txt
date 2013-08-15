@@ -23,6 +23,8 @@ We deside to create a service for artists and creativity professionals that tell
 Let me explain.
 
 
+>Much like a phone book,
+
 
 
 > With Amazon Simple Workflow there is no need to write your own complex glue-code or maintain your own state machines. Instead, you can focus on the business logic that makes your application unique.
