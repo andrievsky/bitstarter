@@ -1,5 +1,5 @@
 {
-  "name": "bitstarter-ssjs-orders",
+  "name": "bitstarter-jetmuse",
   "version": "0.0.1",
   "description": "Simple server-side JS order processing",
   "main": "web.js",
@@ -18,3 +18,4 @@
     "npm": "1.2.30"
   }
 }
+//http://package.json.nodejitsu.com/
