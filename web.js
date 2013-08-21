@@ -5,7 +5,8 @@ var async   = require('async')
   , fs      = require('fs')
   , http    = require('http')
   , https   = require('https')
-  , db      = require('./models');
+  , db      = require('./models')
+  , postmark = require("postmark")('b6cb2855-aac6-4fca-b9e5-41885ca7b3d1');
 
 var app = express();
 app.set('views', __dirname + '/views');
@@ -44,6 +45,37 @@ app.get('/orders', function(request, response) {
     console.log(err);
     response.send("error retrieving orders");
   });
+});
+
+app.get('/thank-you', function(request, response) {
+  postmark.send({
+      "From": "nick@jetmuse.com",
+      "To": "toflasher@gmail.com",
+      "Subject": "Hello from Postmark & Jetmuse",
+      "TextBody": "Hello!",
+      "Tag": "big-bang"
+  }, function(error, success) {
+      if(error) {
+          console.error("Unable to send via postmark: " + error.message);
+         return;
+      }
+      console.info("Sent to postmark for delivery");
+  });
+  postmark.send({
+      "From": "nick@jetmuse.com",
+      "To": "toflasher@gmail.com",
+      "Subject": "Get Feedback",
+      "TextBody": "From User",
+      "Tag": "big-bang"
+  }, function(error, success) {
+      if(error) {
+          console.error("Unable to send via postmark: " + error.message);
+         return;
+      }
+      console.info("Sent to postmark for delivery");
+  });
+
+  response.render("thank-you");
 });
 
 // Hit this URL while on example.com/orders to refresh
